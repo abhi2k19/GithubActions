@@ -8,8 +8,8 @@ jobs:
             - name: Welcome to my first workflow
               run: echo "Hello, world! This is my first workflow."
             - name: List all files
-              run: ls -la
+              run: ls 
             - name: Read a file
-              run: cat first-sample.yaml
+              run: cat README.md
             
    
