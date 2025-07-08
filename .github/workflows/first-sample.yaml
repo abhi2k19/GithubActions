@@ -10,6 +10,6 @@ jobs:
             - name: List all files
               run: ls -la
             - name: Read a file
-              run: cat README.md
+              run: cat first-sample.yaml
             
    
